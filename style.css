@@ -9,6 +9,10 @@ body{
     justify-content: center;
     align-items: center;
     background-color: aquamarine;
-    color: aliceblue;
     height: 100vh;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
 }
